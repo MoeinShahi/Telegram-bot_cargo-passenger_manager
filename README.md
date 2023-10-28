@@ -1,11 +1,16 @@
 # Telegram-bot_cargo-passenger_manager
-*A Telegram bot that can interact with users using Telegram inline buttons, The goal of this bot is to get users's information such as cargo details or passenger details.
-People may travel the world and set their information in this system and get benefit by finding cargo here and hopefully then can take this cargo with them to earn extra cash by delivering it 
-to a destination.
 
-*The bot is under maintenance and not finished yet.
+## Description
+A Telegram bot designed to interact with users via Telegram inline buttons. The primary purpose of this bot is to gather information from users regarding cargo or passenger details. Individuals can provide their travel plans and details, allowing them to connect with available cargo, potentially earning extra income by delivering these items to desired destinations.
 
-*To use the bot replace your telegram bot token with a place that says "Your bot token" in line 319
+The bot is currently under maintenance and remains unfinished.
 
-*The buttons are in Persian you may use your own desired text display
+## Usage Instructions
+To use the bot:
+1. Replace the placeholder "Your bot token" on line 319 with your Telegram bot token.
+
+2. The buttons are currently labeled in Persian. Adjust the text to display in your preferred language.
+
+### Note
+The bot's functionality involves interacting with users through Telegram's interface, providing a platform for exchanging cargo and passenger details. However, please be aware that the bot is currently incomplete and undergoing maintenance.
 
